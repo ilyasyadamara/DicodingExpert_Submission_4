@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XXI Film</string>
+
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara Tv</string>
+    <string name="judul_film">Judul Film :</string>
+    <string name="tanggal_rilis">Tanggal Rilis :</string>
+    <string name="rating_film">Peringkat Film :</string>
+    <string name="status">Status</string>
+    <string name="original_language">Bahasa asli</string>
+    <string name="durasi">Durasi</string>
+    <string name="overview">Kilasan Singkat</string>
+    <string name="detail">Detail Film</string>
+
+    <string-array name="data_judul">
+        <item>Aquaman</item>
+        <item>Avengers Infinity War</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Bohemian Rhapsody</item>
+        <item>A Star Is Born</item>
+        <item>Hunter Killer</item>
+        <item>Maze Runner: The Death Cure</item>
+        <item>Robin Hood</item>
+        <item>Spiderman</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>68%</item>
+        <item>83%</item>
+        <item>65%</item>
+        <item>68%</item>
+        <item>80%</item>
+        <item>75%</item>
+        <item>64%</item>
+        <item>70%</item>
+        <item>58%</item>
+        <item>84%</item>
+        <item>66%</item>
+    </string-array>
+
+    <string-array name="data_rilis">
+        <item>7 December 2018</item>
+        <item>25 April 2018</item>
+        <item>15 December 2018</item>
+        <item>21 November 2018</item>
+        <item>24 October 2018</item>
+        <item>3 October 2018</item>
+        <item>19 October 2018</item>
+        <item>10 January 2018</item>
+        <item>21 November 2018</item>
+        <item>6 December 2018</item>
+        <item>28 September 2018</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+    </string-array>
+
+    <string-array name="data_bahasa">
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+    </string-array>
+
+    <string-array name="data_durasi">
+        <item>2 jam 24 menit</item>
+        <item>2 jam 29 menit</item>
+        <item>1 jam 54 menit</item>
+        <item>2 jam 10 menit</item>
+        <item>2 jam 15 menit</item>
+        <item>2 jam 16 menit</item>
+        <item>2 jam 2 menit</item>
+        <item>2 jam 24 menit</item>
+        <item>1 jam 56 menit</item>
+        <item>1 jam 57 menit</item>
+        <item>1 jam 52 menit</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan
+            kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang
+            sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian
+            ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia
+            setengah manusia Orm dan pewaris sejati takhta.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar
+            untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik:
+            Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua
+            enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan
+            keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan
+            telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang
+            rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan
+            tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie
+            menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan
+            yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John
+            Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen
+            pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin
+            liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk
+            menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang
+            Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai
+            Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi
+            dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya
+            sendiri.</item>
+        <item>Kapten Glass dari USS Arkansas menemukan bahwa kudeta sedang terjadi di Rusia, jadi ia
+            dan krunya bergabung dengan kelompok elit yang bekerja di lapangan untuk mencegah perang.</item>
+        <item>Thomas memimpin kelompok Gladers yang melarikan diri ke misi terakhir dan paling berbahaya.
+            Untuk menyelamatkan teman-teman mereka, mereka harus masuk ke Last City yang legendaris,
+            sebuah labirin yang dikendalikan WCKD yang mungkin berubah menjadi labirin yang paling
+            mematikan dari semuanya. Siapa pun yang berhasil hidup-hidup akan mendapatkan jawaban
+            atas pertanyaan yang diajukan Gladers sejak mereka pertama kali tiba di labirin.</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani
+            melawan mahkota Inggris yang korup.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia
+            laba-laba. Ketika Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seberang
+            Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara
+            tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti.
+            Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi
+            bayangan yang mencari simbiosis mereka sendiri.</item>
+    </string-array>
+
+    <array name="data_poster">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_mazerunner</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="data_judul2">
+        <item>Freaks</item>
+        <item>Solo: A Star Wars Story</item>
+        <item>T-34</item>
+        <item>Jurassic Galaxy</item>
+        <item>Master Z: Ip Man Legacy</item>
+        <item>Deadpool 2</item>
+        <item>Black Panther</item>
+        <item>Hotel Transylvania 3: Summer Vacation</item>
+        <item>Mission: Impossible - Fallout</item>
+        <item>The Meg</item>
+    </string-array>
+
+    <string-array name="data_rating2">
+        <item>69%</item>
+        <item>66%</item>
+        <item>55%</item>
+        <item>37%</item>
+        <item>54%</item>
+        <item>75%</item>
+        <item>74%</item>
+        <item>68%</item>
+        <item>73%</item>
+        <item>59%</item>
+    </string-array>
+
+    <string-array name="data_rilis2">
+        <item>8 September 2018</item>
+        <item>15 May 2018</item>
+        <item>27 December 2018</item>
+        <item>20 August 2018</item>
+        <item>20 December 2018</item>
+        <item>10 May 2018</item>
+        <item>13 February 2018</item>
+        <item>28 June 2018</item>
+        <item>13 July 2018</item>
+        <item>9 August 2018</item>
+    </string-array>
+
+    <string-array name="data_status2">
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+        <item>Dirilis</item>
+    </string-array>
+
+    <string-array name="data_bahasa2">
+        <item>English</item>
+        <item>English</item>
+        <item>Russian</item>
+        <item>English</item>
+        <item>Cantonese</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="data_durasi2">
+        <item>1h 45m</item>
+        <item>2h 15m</item>
+        <item>2h 19m</item>
+        <item>1h 16m</item>
+        <item>1h 47m</item>
+        <item>2h 1m</item>
+        <item>2h 14m</item>
+        <item>1h 37m</item>
+        <item>2h 28m</item>
+        <item>1h 53m</item>
+    </string-array>
+
+    <string-array name="data_deskripsi2">
+        <item> Tetap terkunci di dalam rumah oleh ayahnya, Chloe yang berusia 7 tahun hidup dalam ketakutan dan pesona
+            dari dunia luar, di mana Abnormal menciptakan ancaman konstan - atau jadi dia percaya. Kapan
+            seorang asing yang misterius menawarkan padanya sekilas tentang apa yang sebenarnya terjadi di luar, segera Chloe
+            menemukan bahwa meskipun kebenarannya tidak begitu sederhana, bahayanya sangat nyata. </item>
+        <item> Melalui serangkaian petualangan berani jauh di dalam dunia kriminal yang gelap dan berbahaya,
+            Han Solo bertemu dengan kopilot masa depannya yang perkasa, Chewbacca, dan bertemu penjudi terkenal Lando
+            Calrissian. </item>
+        <item> Pada tahun 1944, sekelompok tentara Rusia yang berani berhasil melarikan diri dari penawanan Jerman
+            di tank T-34 legendaris yang setengah hancur. Itu adalah saat-saat keberanian yang tak terlupakan,
+            pertempuran sengit, cinta yang tak terpatahkan, dan mukjizat legendaris. </item>
+        <item> Dalam waktu dekat, sebuah kapal penjelajah luar angkasa mendarat di planet yang tidak dikenal. Mereka
+            segera bertemu dengan beberapa ketakutan terburuk mereka ketika mereka menemukan planet ini dihuni oleh monster
+            dinosaurus. </item>
+        <item> Setelah kekalahannya oleh Master Ip, Cheung Tin Chi (Zhang) mencoba untuk membuat hidup dengannya
+            anak muda di Hong Kong, menunggu meja di sebuah bar yang melayani ekspatriat. Tapi itu tidak lama
+            sebelum campuran orang asing, uang, dan pemimpin triad menariknya sekali lagi ke pertarungan. </item>
+        <item> Deadpool tentara bayaran Wisecracking bertarung melawan Cable jahat dan kuat dan orang jahat lainnya
+            untuk menyelamatkan hidup anak laki-laki. </item>
+        <item> Raja TChalla pulang dari Amerika ke tempat yang tertutup, berteknologi maju
+            Bangsa Afrika Wakanda untuk melayani sebagai pemimpin baru negaranya. Namun, TChalla segera
+            menemukan bahwa ia ditantang untuk tahta oleh faksi di negaranya sendiri juga
+            tanpa. Menggunakan kekuatan yang disediakan untuk raja-raja Wakandan, TChalla mengasumsikan mantel Black Panther
+            untuk bergabung dengan pacar Nakia, ibu ratu, saudara perempuannya, anak perempuan dari para putri
+            Dora Milaje (pasukan khusus Wakandan) dan seorang agen rahasia Amerika, untuk mencegah Wakanda
+            dari terseret ke dalam perang dunia. </item>
+        <item> Dracula, Mavis, Johnny dan anggota Drac Pack lainnya berlibur di Monster mewah
+            Kapal Pesiar, tempat Dracula jatuh cinta dengan kapten kapal, Ericka, yang diam-diam a
+            keturunan Abraham Van Helsing, pembunuh monster terkenal. </item>
+        <item> Ketika misi IMF berakhir dengan buruk, dunia dihadapkan pada konsekuensi yang mengerikan. Sebagai Ethan
+            Hunt mengambilnya untuk memenuhi pengarahan aslinya, CIA mulai mempertanyakan
+            kesetiaan dan motifnya. Tim IMF menemukan diri mereka berpacu dengan waktu, diburu
+            oleh pembunuh ketika mencoba untuk mencegah bencana global. </item>
+        <item> Seorang pilot kapal selam laut dalam mengunjungi kembali ketakutan masa lalunya di Palung Mariana, dan
+            tanpa sengaja melepaskan leluhur tujuh puluh kaki dari Hiu Putih Besar yang diyakini
+            punah. </item>
+    </string-array>
+
+    <array name="data_poster2">
+        <item>@drawable/poster_freak</item>
+        <item>@drawable/poster_solo</item>
+        <item>@drawable/poster_t34</item>
+        <item>@drawable/poster_jurassic</item>
+        <item>@drawable/poster_masterz</item>
+        <item>@drawable/poster_deadpool2</item>
+        <item>@drawable/poster_blackpanther</item>
+        <item>@drawable/poster_hotel</item>
+        <item>@drawable/poster_mission</item>
+        <item>@drawable/poster_themeg</item>
+    </array>
+</resources>

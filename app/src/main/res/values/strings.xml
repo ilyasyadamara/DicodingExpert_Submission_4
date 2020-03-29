@@ -1,0 +1,288 @@
+<resources>
+    <string name="app_name">Movie XXI</string>
+
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="judul_film">Movie title :</string>
+    <string name="tanggal_rilis">Release Date :</string>
+    <string name="rating_film">Movie Rating :</string>
+    <string name="status">Status</string>
+    <string name="original_language">Original Language</string>
+    <string name="durasi">Duration</string>
+    <string name="overview">Overview</string>
+    <string name="detail">Detail Movie</string>
+
+    <string-array name="data_judul">
+        <item>Aquaman</item>
+        <item>Avengers Infinity War</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Bohemian Rhapsody</item>
+        <item>A Star Is Born</item>
+        <item>Hunter Killer</item>
+        <item>Maze Runner: The Death Cure</item>
+        <item>Robin Hood</item>
+        <item>Spiderman</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>68%</item>
+        <item>83%</item>
+        <item>65%</item>
+        <item>68%</item>
+        <item>80%</item>
+        <item>75%</item>
+        <item>64%</item>
+        <item>70%</item>
+        <item>58%</item>
+        <item>84%</item>
+        <item>66%</item>
+    </string-array>
+
+    <string-array name="data_rilis">
+        <item>December 7, 2018</item>
+        <item>April 25, 2018</item>
+        <item>December 15, 2018</item>
+        <item>November 21, 2018</item>
+        <item>October 24, 2018</item>
+        <item>October 3, 2018</item>
+        <item>October 19, 2018</item>
+        <item>January 10, 2018</item>
+        <item>November 21, 2018</item>
+        <item>December 6, 2018</item>
+        <item>September 28, 2018</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+    </string-array>
+
+    <string-array name="data_bahasa">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="data_durasi">
+        <item>2h 24m</item>
+        <item>2h 29m</item>
+        <item>1h 54m</item>
+        <item>2h 10m</item>
+        <item>2h 15m</item>
+        <item>2h 16m</item>
+        <item>2h 2m</item>
+        <item>2h 24m</item>
+        <item>1h 56m</item>
+        <item>1h 57m</item>
+        <item>1h 52m</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater
+            kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans
+            to conquer the remaining oceanic people and then the surface world. Standing in his way
+            is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too
+            large for any one hero to handle, a new danger has emerged from the cosmic shadows:
+            Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones,
+            artifacts of unimaginable power, and use them to inflict his twisted will on all of
+            reality. Everything the Avengers have fought for has led up to this moment - the fate
+            of Earth and existence itself has never been more uncertain.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian
+            beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world,
+            discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns
+            this is no ordinary yellow VW bug.</item>
+        <item>Between personal obligations and training for his next big fight against an opponent
+            with ties to his familys past, Adonis Creed is up against the challenge of his life.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist
+            John Deacon take the music world by storm when they form the rock n roll band Queen
+            in 1970. Hit songs become instant classics. When Mercurys increasingly wild lifestyle
+            starts to spiral out of control, Queen soon faces its greatest challenge yet – finding
+            a way to keep the band together amid the success and excess.</item>
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist
+            Ally. She has just about given up on her dream to make it big as a singer — until Jack
+            coaxes her into the spotlight. But even as Allys career takes off, the personal side
+            of their relationship is breaking down, as Jack fights an ongoing battle with his own
+            internal demons.</item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup détat is taking place in
+            Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>Thomas leads his group of escaped Gladers on their final and most dangerous mission yet.
+            To save their friends, they must break into the legendary Last City, a WCKD-controlled
+            labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive
+            will get answers to the questions the Gladers have been asking since they first arrived in the maze.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the
+            corrupt English crown.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a
+            spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the
+            Spider-Verse are transported to this dimension.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but
+            accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon,
+            he must rely on his newfound powers to protect the world from a shadowy organization
+            looking for a symbiote of their own.</item>
+    </string-array>
+
+    <array name="data_poster">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_mazerunner</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="data_judul2">
+        <item>Freaks</item>
+        <item>Solo: A Star Wars Story</item>
+        <item>T-34</item>
+        <item>Jurassic Galaxy</item>
+        <item>Master Z: Ip Man Legacy</item>
+        <item>Deadpool 2</item>
+        <item>Black Panther</item>
+        <item>Hotel Transylvania 3: Summer Vacation</item>
+        <item>Mission: Impossible - Fallout</item>
+        <item>The Meg</item>
+    </string-array>
+
+    <string-array name="data_rating2">
+        <item>69%</item>
+        <item>66%</item>
+        <item>55%</item>
+        <item>37%</item>
+        <item>54%</item>
+        <item>75%</item>
+        <item>74%</item>
+        <item>68%</item>
+        <item>73%</item>
+        <item>59%</item>
+    </string-array>
+
+    <string-array name="data_rilis2">
+        <item>September 8, 2018</item>
+        <item>May 15, 2018</item>
+        <item>December 27, 2018</item>
+        <item>August 20, 2018</item>
+        <item>December 20, 2018</item>
+        <item>May 10, 2018</item>
+        <item>February 13, 2018</item>
+        <item>June 28, 2018</item>
+        <item>July 13, 2018</item>
+        <item>August 9, 2018</item>
+    </string-array>
+
+    <string-array name="data_status2">
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+    </string-array>
+
+    <string-array name="data_bahasa2">
+        <item>English</item>
+        <item>English</item>
+        <item>Russian</item>
+        <item>English</item>
+        <item>Cantonese</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="data_durasi2">
+        <item>1h 45m</item>
+        <item>2h 15m</item>
+        <item>2h 19m</item>
+        <item>1h 16m</item>
+        <item>1h 47m</item>
+        <item>2h 1m</item>
+        <item>2h 14m</item>
+        <item>1h 37m</item>
+        <item>2h 28m</item>
+        <item>1h 53m</item>
+    </string-array>
+
+    <string-array name="data_deskripsi2">
+        <item>Kept locked inside the house by her father, 7-year-old Chloe lives in fear and fascination
+            of the outside world, where Abnormals create a constant threat - or so she believes. When
+            a mysterious stranger offers her a glimpse of whats really happening outside, Chloe soon
+            finds that while the truth isnt so simple, the danger is very real.</item>
+        <item>Through a series of daring escapades deep within a dark and dangerous criminal underworld,
+            Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando
+            Calrissian.</item>
+        <item>In 1944, a courageous group of Russian soldiers managed to escape from German captivity
+            in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery,
+            fierce fighting, unbreakable love, and legendary miracles.</item>
+        <item>In the near future, a ship of space explorers crash land on an unknown planet. Theyre
+            soon met with some of their worst fears as they discover the planet is inhabited by monstrous
+            dinosaurs.</item>
+        <item>Following his defeat by Master Ip, Cheung Tin Chi (Zhang) tries to make a life with his
+            young son in Hong Kong, waiting tables at a bar that caters to expats. But it s not long
+            before the mix of foreigners, money, and triad leaders draw him once again to the fight.</item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys
+            to save a boys life.</item>
+        <item>King TChalla returns home from America to the reclusive, technologically advanced
+            African nation of Wakanda to serve as his countrys new leader. However, TChalla soon
+            finds that he is challenged for the throne by factions within his own country as well as
+            without. Using powers reserved to Wakandan kings, TChalla assumes the Black Panther mantel
+            to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the
+            Dora Milaje (the Wakandan special forces) and an American secret agent, to prevent Wakanda
+            from being dragged into a world war.</item>
+        <item>Dracula, Mavis, Johnny and the rest of the Drac Pack take a vacation on a luxury Monster
+            Cruise Ship, where Dracula falls in love with the ship’s captain, Ericka, who’s secretly a
+            descendant of Abraham Van Helsing, the notorious monster slayer.</item>
+        <item>When an IMF mission ends badly, the world is faced with dire consequences. As Ethan
+            Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question
+            his loyalty and his motives. The IMF team find themselves in a race against time, hunted
+            by assassins while trying to prevent a global catastrophe.</item>
+        <item>A deep sea submersible pilot revisits his past fears in the Mariana Trench, and
+            accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be
+            extinct.</item>
+    </string-array>
+
+    <array name="data_poster2">
+        <item>@drawable/poster_freak</item>
+        <item>@drawable/poster_solo</item>
+        <item>@drawable/poster_t34</item>
+        <item>@drawable/poster_jurassic</item>
+        <item>@drawable/poster_masterz</item>
+        <item>@drawable/poster_deadpool2</item>
+        <item>@drawable/poster_blackpanther</item>
+        <item>@drawable/poster_hotel</item>
+        <item>@drawable/poster_mission</item>
+        <item>@drawable/poster_themeg</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
